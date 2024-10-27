@@ -6,9 +6,13 @@ This project aims to develop a predictive model for Shield Insurance to estimate
 The project’s core objectives are:
 
 => To develop a highly accurate predictive model that meets or exceeds a 97% accuracy threshold.
+
 => To ensure that predictions on at least 95% of cases have a percentage difference of less than 10% between predicted and actual values.
+
 =>To deploy the model in a secure and scalable cloud environment, allowing Shield Insurance underwriters to use it remotely.
+
 =>To create an intuitive Streamlit application for underwriters to easily input client data and receive premium estimates.
+
 ## Scope of Work (Phase 1: MVP Development)
 ### 1. Data Collection and Preprocessing
 #### Data Collection: 
