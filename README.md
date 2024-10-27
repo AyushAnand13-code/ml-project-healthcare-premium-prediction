@@ -52,6 +52,5 @@ Set up a feedback loop to monitor the model's accuracy over time, ensuring it re
 Provide comprehensive documentation covering data pipeline, model selection, deployment steps, and Streamlit app functionality.
 #### User Training: 
 Prepare user guides or conduct live training sessions for insurance underwriters to ensure effective use of the application.
-## Project Structure
-The project files are organized as follows:
+
 
